@@ -26,5 +26,9 @@ Hardware:
 
 Aqui puedes encontrar las librerias necesarias y codigos de ejemplo para la Mulita. Esta disponible tmb el manual donde figuran los esquemas de conexiones junto con las instrucciones de armado.
 
+Para ver y descargar los diseños 3D de la Mulita puedes entrar a nuestra pagina de Thingiverse y descargar los modelos.
+
+https://www.thingiverse.com/thing:3686705
+
 Desarrollado por el INIS (Instituto de informática y sistemas) de la Universidad Adventista del
 Plata, Entre Ríos, Argentina.
