@@ -28,7 +28,7 @@ Hardware:
 - 1x bolita de vidrio
 - 2x O-Ring 47.2 x 54.3
 
-Aqui puedes encontrar las librerias necesarias y codigos de ejemplo para la Mulita. Esta disponible tmb el manual donde figuran los esquemas de conexiones junto con las instrucciones de armado.
+Aqui puedes encontrar las librerias necesarias y codigos de ejemplo para la Mulita. Proximamente estarán disponibles tambien los manuales donde figuran los esquemas de conexiones junto con las instrucciones de armado.
 
 Para ver y descargar los diseños 3D de la Mulita puedes entrar a nuestra pagina de Thingiverse y descargar los modelos.
 
